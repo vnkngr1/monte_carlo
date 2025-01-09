@@ -1,0 +1,3 @@
+/Users/ivangarsin/Downloads/monte-carlo/cmake-build-debug/CMakeFiles/monte_carlo.dir
+/Users/ivangarsin/Downloads/monte-carlo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivangarsin/Downloads/monte-carlo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
